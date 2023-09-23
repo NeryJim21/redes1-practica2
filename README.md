@@ -303,28 +303,17 @@ sh ip ro
 
 * A continuación se muestran los `ping` realizados dentro de la topología
 
-### Desde `VPC1`
+### Desde `VPC1` hacia `VPC4` y `VPC6`
 
-![](/img/topologia.PNG)
-
-### Desde `VPC2`
-
-![](/img/topologia.PNG)
-
-### Desde `VPC3`
-
-![](/img/topologia.PNG)
-
-### Desde `VPC4`
-
-![](/img/topologia.PNG)
-
-### Desde `VPC5`
-
-![](/img/topologia.PNG)
-
-### Desde `VPC6`
-
-![](/img/topologia.PNG)
+![](/img/pc1_pc2.PNG)
+![](/img/pc1_pc4.PNG)
+![](/img/pc1_pc6.PNG)
 
 
+### Desde `VPC3` hacia `VPC1` y `VPC5`
+
+![](/img/pc3_pc1_pc5.PNG)
+
+### Desde `VPC6` hacia `VPC1`
+
+![](/img/pc6_pc1.PNG)
